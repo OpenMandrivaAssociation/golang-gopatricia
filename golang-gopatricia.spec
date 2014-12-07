@@ -4,7 +4,7 @@
 
 Name:           golang-gopatricia
 Version:        1.0.1
-Release:        2
+Release:        3
 Summary:        A generic patricia trie (also called radix tree) implemented in Go (Golang)
 License:        BSD
 URL:            https://%{import_path}
